@@ -1,0 +1,99 @@
+body{
+    background-color:white; 
+}
+.cardd{
+    display: flex;
+    background-color:white;
+    display: inline;
+}
+
+.cardrow h3{
+    text-align: center;
+    color: rgb(22, 10, 32);
+}
+
+.cardrow h4{
+   text-align: center;
+    color: rgb(127, 55, 185);
+}
+h1{
+    text-align: center;
+    color: rgb(42, 42, 153);
+}
+.C1{
+    background-color: rgb(152, 152, 223);
+    border:1px solid rgb(127, 127, 216);  
+    /* border:1px solid rgb(127, 127, 216);   */
+    height: 40vh;
+    padding: 20px;
+    margin-left: 15%;
+    width: 70%;   
+    margin-top: 20px;  
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 5px 5px 5px #97abec;
+    color: black;
+    margin-right: 10px;
+
+
+}
+.C2{
+    background-color: rgb(57, 57, 216);
+    border:1px solid rgb(127, 127, 216);  
+    height: 40vh;
+    padding: 20px;
+    margin-left: 15%;
+    width: 70%;   
+    margin-top: 20px;  
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 5px 5px 5px #97abec;
+    color: black;
+    margin-right: 10px;
+
+    
+
+}
+.C3{
+    background-color: rgb(47, 47, 90);
+    border:1px solid rgb(127, 127, 216);  
+    height: 40vh;
+    padding: 20px;
+    margin-left: 15%;
+    width: 70%;   
+    margin-top: 20px;  
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 5px 5px 5px #7b6c8f;
+    color: black;
+    margin-right: 10px;
+
+
+}
+.C4{
+    background-color: rgb(5, 5, 87);
+    border:1px solid rgb(127, 127, 216);  
+    height: 40vh;
+    padding: 20px;
+    margin-left: 15%;
+    width: 70%;   
+    margin-top: 20px;
+    border-radius: 20px;    
+    overflow: hidden;
+    box-shadow: 5px 5px 5px #30447a;
+    color: white;
+    margin-right: 10px;
+}
+.flx{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+p{
+    margin-left: 5px;
+    text-align: center;
+    margin-right: 5px;
+}
